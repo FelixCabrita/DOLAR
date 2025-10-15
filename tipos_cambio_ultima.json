@@ -1,0 +1,133 @@
+{
+  "fecha": "2025-10-14",
+  "fecha_formato": "14 de October de 2025",
+  "total_monedas": 21,
+  "tasas": {
+    "ANG": {
+      "pais": "Curazao",
+      "compra_bs": 112.81,
+      "venta_bs": 113.09,
+      "promedio_bs": 112.95
+    },
+    "ARS": {
+      "pais": "Argentina",
+      "compra_bs": 0.15,
+      "venta_bs": 0.15,
+      "promedio_bs": 0.15
+    },
+    "BOB": {
+      "pais": "Bolivia",
+      "compra_bs": 28.72,
+      "venta_bs": 28.79,
+      "promedio_bs": 28.76
+    },
+    "BRL": {
+      "pais": "Brasil",
+      "compra_bs": 36.08,
+      "venta_bs": 36.17,
+      "promedio_bs": 36.12
+    },
+    "CAD": {
+      "pais": "Canada",
+      "compra_bs": 140.27,
+      "venta_bs": 140.62,
+      "promedio_bs": 140.44
+    },
+    "CLP": {
+      "pais": "Chile",
+      "compra_bs": 0.21,
+      "venta_bs": 0.21,
+      "promedio_bs": 0.21
+    },
+    "CNY": {
+      "pais": "China",
+      "compra_bs": 27.59,
+      "venta_bs": 27.66,
+      "promedio_bs": 27.62
+    },
+    "COP": {
+      "pais": "Colombia",
+      "compra_bs": 0.05,
+      "venta_bs": 0.05,
+      "promedio_bs": 0.05
+    },
+    "CUC": {
+      "pais": "Cuba",
+      "compra_bs": 196.75,
+      "venta_bs": 197.25,
+      "promedio_bs": 197.0
+    },
+    "DOP": {
+      "pais": "Republica Dominicana",
+      "compra_bs": 3.13,
+      "venta_bs": 3.14,
+      "promedio_bs": 3.14
+    },
+    "EUR": {
+      "pais": "Zona Euro",
+      "compra_bs": 227.52,
+      "venta_bs": 228.09,
+      "promedio_bs": 227.81
+    },
+    "INR": {
+      "pais": "India",
+      "compra_bs": 2.22,
+      "venta_bs": 2.23,
+      "promedio_bs": 2.22
+    },
+    "JPY": {
+      "pais": "Japon",
+      "compra_bs": 1.29,
+      "venta_bs": 1.29,
+      "promedio_bs": 1.29
+    },
+    "MXP": {
+      "pais": "Mexico",
+      "compra_bs": 10.67,
+      "venta_bs": 10.69,
+      "promedio_bs": 10.68
+    },
+    "NIO": {
+      "pais": "Nicaragua",
+      "compra_bs": 5.41,
+      "venta_bs": 5.43,
+      "promedio_bs": 5.42
+    },
+    "PEN": {
+      "pais": "Perú",
+      "compra_bs": 57.52,
+      "venta_bs": 57.66,
+      "promedio_bs": 57.59
+    },
+    "RUB": {
+      "pais": "Rusia",
+      "compra_bs": 2.45,
+      "venta_bs": 2.45,
+      "promedio_bs": 2.45
+    },
+    "TRY": {
+      "pais": "Turquia",
+      "compra_bs": 4.71,
+      "venta_bs": 4.72,
+      "promedio_bs": 4.71
+    },
+    "TTD": {
+      "pais": "Trinidad y Tobago",
+      "compra_bs": 29.13,
+      "venta_bs": 29.2,
+      "promedio_bs": 29.17
+    },
+    "USD": {
+      "pais": "E.U.A.",
+      "compra_bs": 196.75,
+      "venta_bs": 197.25,
+      "promedio_bs": 197.0
+    },
+    "UYU": {
+      "pais": "Uruguay",
+      "compra_bs": 4.9,
+      "venta_bs": 4.91,
+      "promedio_bs": 4.9
+    }
+  }
+}
